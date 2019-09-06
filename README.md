@@ -1,2 +1,2 @@
 # cipher-code
-There are two more cipher codes that I had written in Python. 
+These are two different Symmetric Encryption Techniques written in python. 
