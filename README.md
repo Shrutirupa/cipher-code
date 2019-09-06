@@ -1,2 +1,1 @@
-# cipher-code
-These are two different Symmetric Encryption Techniques written in python. 
+These are two different polygraphic substitution cipher codes: Foursquare and Twosquare symmetric encryption techniques written in python just to understand their working. 
